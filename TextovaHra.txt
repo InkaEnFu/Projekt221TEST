@@ -1,0 +1,10 @@
+id nazev sever jih vychod zapad ObsahujeKlic ObsahujeTruhlu
+1 KomnataZacatku 0 2 0 0 false false
+2 Komnatabolesti 1 7 0 3 false true
+3 Komnataoslabeni 0 0 2 4 true false
+4 Komnatazabudnuti 0 5 3 0 true true
+5 Komnatasmutku 4 0 0 6 true false
+6 Komnatatemnoty 0 0 5 0 false false
+7 Komnataagrese 2 8 0 0 false false
+8 Komnataparalyzy 7 0 9 0 true true
+9 Komnatazmateni 0 0 0 8 false false
